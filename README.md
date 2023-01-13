@@ -6,7 +6,7 @@
 # DISCLAIMER: 
   This is not the real implementation of the tesla clone
  
-[Tesla clone](https://one-page-blog.web.app "Tesla clone")
+[Tesla clone](https://tesla-clone-implementation.vercel.app/ "Tesla clone")
 
 ## Desktop View
 <div style="margin-top:40px;"></div>
